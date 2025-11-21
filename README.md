@@ -1,3 +1,3 @@
 basic c programmes
 <br>
-author-nitya vishwakarma
+author- nitya (apna college).
