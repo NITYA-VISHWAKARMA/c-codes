@@ -1,1 +1,2 @@
-# c-codes
+basic c programmes
+author-nitya vishwakarma
