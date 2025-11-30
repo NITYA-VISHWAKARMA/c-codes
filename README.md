@@ -1,3 +1,3 @@
-basic c programmes
+<!-- basic c programmes
 <br>
-author- nitya (apna college).
+author- nitya (apna college). -->
